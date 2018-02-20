@@ -11,6 +11,6 @@ Below is a list of things I know exist but can't quite remember what they're cal
 
 1. The name of the actor that was in that movie where he slid around the house in his underware, singing into a candlestick.  Later that actor got really weird and super into scientology.  That actor's name was ___________________
 
-2. There's a thing that functions as a purely peer-to-peer version of electronic cash.  The name of that thing is _________________
+2. There's a thing that functions as a purely peer-to-peer version of electronic cash.  The name of that thing is Bitcoin.
 
 3. The name of that fat orange cat that loves lasagna is Garfield!
