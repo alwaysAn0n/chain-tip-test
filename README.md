@@ -5,10 +5,6 @@ This is a repo for people like myself to test out the cool bounty feature offere
 ##### If you want BCH
 Find something on the list below that I can't remember.  Submit a PR to this file (README.md) filling in the name of the thing I can't remember.  I'll merge it if it's correct and you'll get the bounty!
 
-##### If you want to give someone else BCH
-Create a new PR to this file (README.md) that adds to my list a description of something you can't remember the name of.  I'll immediately merge it in and collect the bounty.  Then I'll create an issue asking for help in remembering your thing.  I'll post the bounty I collected on that new issue
-
-
 ### Things I cannot remember
 
 Below is a list of things I know exist but can't quite remember what they're called.  Submit a PR that adds the name and you'll receive a bounty.
