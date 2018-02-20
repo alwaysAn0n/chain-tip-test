@@ -13,4 +13,4 @@ Below is a list of things I know exist but can't quite remember what they're cal
 
 2. There's a thing that functions as a purely peer-to-peer version of electronic cash.  The name of that thing is _________________
 
-3. The name of that fat orange cat that loves lasagna is __________________.
+3. The name of that fat orange cat that loves lasagna is Garfield!
