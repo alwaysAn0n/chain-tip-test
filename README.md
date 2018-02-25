@@ -14,3 +14,5 @@ Below is a list of things I know exist but can't quite remember what they're cal
 2. There's a thing that functions as a purely peer-to-peer version of electronic cash.  The name of that thing is Bitcoin Cash.
 
 3. The name of that fat orange cat that loves lasagna is Garfield!
+
+4. The industry that's frequently on the forefront of creating and using new technologies, even though they are often shunned by communities and denied services by financial institutions.
