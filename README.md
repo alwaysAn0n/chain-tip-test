@@ -15,4 +15,4 @@ Below is a list of things I know exist but can't quite remember what they're cal
 
 3. The name of that fat orange cat that loves lasagna is Garfield!
 
-4. The name of the industry that's frequently on the forefront of creating and using new technologies, even though they are often shunned by communities and denied services by financial institutions is called the _____________ industry.
+4. The name of the industry that's frequently on the forefront of creating and using new technologies, even though they are often shunned by communities and denied services by financial institutions is called the bitcoin industry.
